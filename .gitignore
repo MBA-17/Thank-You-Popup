@@ -1,0 +1,14 @@
+# Ignore OS/Editor junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Build and temp folders
+dist/
+build/
+temp/
